@@ -4,7 +4,7 @@ A persistence of vision clock device built for my Junior Year Project. The syste
 Front View (still)
 ![Front](https://github.com/carregh1/Persistence-of-Vision-Clock/blob/master/IMG_3729.jpg)
 
-Front View (after executing code)
+Front View (in motion)
 ![Motion](https://github.com/carregh1/Persistence-of-Vision-Clock/blob/master/IMG_3722.JPG)
 
 Back View
